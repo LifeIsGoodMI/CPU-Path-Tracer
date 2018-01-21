@@ -6,7 +6,7 @@ Parallelization is done using OpenMP, so make sure it's enabled.
 **Features**
 - Perfectly diffuse materials & color bleeding
 - Perfectly reflective materials
-- refractive materials (caustics supported)
+- Refractive materials (caustics supported)
 
 Some visuals ! Both images are rendered with 4 threads & a resolution of 800x800.
 
